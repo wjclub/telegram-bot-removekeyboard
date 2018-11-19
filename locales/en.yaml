@@ -1,0 +1,5 @@
+help: "<b>Usage:</b>\nAdd this bot to a group chat, it will automatically attempt to remove any stuck keyboards.\n\n<b>Contact:</b>\nMade with hate by <a href=\"https://t.me/wjclub\">WJClub</a>"
+start: "Hello there!\n\n"
+start_removing_keyboard: "I am now going to remove the existing keyboard. Don't move."
+removing_keyboard_btn_placeholder: "I am stupid, so I click it."
+done_removing_keyboard: "All the nasty old keyboard-buttons should be gone now. Bye :)"
