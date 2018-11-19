@@ -1,0 +1,17 @@
+{
+  "name": "removekeyboardbot",
+  "version": "1.0.0",
+  "description": "Removes inline keyboards from groups",
+  "main": "index.js",
+  "dependencies": {
+    "telegraf": "^3.25.0",
+    "telegraf-i18n": "^6.4.0",
+    "telegraf-session-local": "0.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
